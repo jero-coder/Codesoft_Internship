@@ -1,2 +1,2 @@
-# Codesoft_Internship
-My Codesoft Internship Task Submissions
+# Codsoft_Internship
+My Codsoft Internship Task Submissions
